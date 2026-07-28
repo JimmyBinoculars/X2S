@@ -6,8 +6,6 @@ A lightweight, RESTful blob storage server written in C11. Upload and retrieve b
 
 ### Docker (recommended)
 
-Pre-built container images are available via the [X2S-Docker](https://github.com/LemmaAlliance/X2S-Docker) repo:
-
 ```bash
 docker compose up
 ```
