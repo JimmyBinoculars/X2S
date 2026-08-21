@@ -4,12 +4,6 @@ A lightweight, RESTful blob storage server written in C11. Upload and retrieve b
 
 ## Quick start
 
-### Docker (recommended)
-
-```bash
-docker compose up
-```
-
 ### Manual build
 
 ```bash
